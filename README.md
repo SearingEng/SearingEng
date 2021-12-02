@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SearingEng (Mr. Ortiz) Math and Engineering teacher at Central Union High School in CA. 
 - 👀 I’m interested in learning about FRC competition best practices.
-- 🌱 I’m currently learning how to build, wire and program an FRC competition robot.
--     This is my first year as an FRC Mentor.
+- 🌱 I’m currently learning how to build, wire and program an FRC competition robot. This is my first year as an FRC Mentor.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aortiz@mycuhsd.org
 
